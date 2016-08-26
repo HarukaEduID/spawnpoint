@@ -28,4 +28,4 @@ TODO: Write credits
 
 ## License
 
-TODO: Write license
+See LICENSE.txt
